@@ -9,6 +9,12 @@
   font-style: normal;
 }
 
+.backgroundImage {
+	background-image: url(../img/cat-34.jpg);
+	width: 400px;
+	height: 400px;
+}
+
 body {
 	margin: 100px auto;
 	width: 50%;
