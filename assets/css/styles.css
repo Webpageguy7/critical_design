@@ -15,6 +15,12 @@
 	height: 400px;
 }
 
+.backgroundImage:hover {
+	background-image: url(../img/cat-007.png);
+	width: 400px;
+	height: 400px;
+}
+
 body {
 	margin: 100px auto;
 	width: 50%;
