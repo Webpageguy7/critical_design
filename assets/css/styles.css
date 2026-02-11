@@ -3,7 +3,9 @@
 * {
 	font-family: Arial;
 }
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playwrite+NZ+Basic+Guides&display=swap" rel="stylesheet">
 body {
 	margin: 100px auto;
 	width: 50%;
